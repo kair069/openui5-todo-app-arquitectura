@@ -1,14 +1,87 @@
 {
 	"newTodo": "",
-	"todos": [{
-			"title": "Start this app",
+	"todos": [
+		{
+			"title": "Configurar entorno de desarrollo",
 			"completed": true
 		},
 		{
-			"title": "Learn OpenUI5",
+			"title": "Aprender fundamentos de OpenUI5",
+			"completed": true
+		},
+		{
+			"title": "Crear componentes personalizados",
+			"completed": false
+		},
+		{
+			"title": "Implementar navegación entre vistas",
+			"completed": false
+		},
+		{
+			"title": "Conectar con API REST",
+			"completed": false
+		},
+		{
+			"title": "Agregar validación de formularios",
+			"completed": false
+		},
+		{
+			"title": "Optimizar rendimiento de la aplicación",
+			"completed": false
+		},
+		{
+			"title": "Escribir documentación técnica",
+			"completed": false
+		},
+		{
+			"title": "Realizar testing unitario",
+			"completed": false
+		},
+		{
+			"title": "Configurar build para producción",
+			"completed": false
+		},
+		{
+			"title": "Implementar autenticación de usuarios",
+			"completed": false
+		},
+		{
+			"title": "Agregar soporte para múltiples idiomas",
+			"completed": false
+		},
+		{
+			"title": "Diseñar interfaz responsive",
+			"completed": true
+		},
+		{
+			"title": "Integrar gráficos y visualizaciones",
+			"completed": false
+		},
+		{
+			"title": "Configurar deployment automático",
+			"completed": false
+		},
+		{
+			"title": "Implementar notificaciones push",
+			"completed": false
+		},
+		{
+			"title": "Optimizar para dispositivos móviles",
+			"completed": false
+		},
+		{
+			"title": "Agregar funcionalidad de exportar datos",
+			"completed": false
+		},
+		{
+			"title": "Implementar sistema de logs",
+			"completed": false
+		},
+		{
+			"title": "Crear manual de usuario",
 			"completed": false
 		}
 	],
 	"itemsRemovable": true,
-	"completedCount": 1
+	"completedCount": 3
 }
